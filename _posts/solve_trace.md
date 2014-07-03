@@ -19,6 +19,8 @@
 *    **2. 引入bootstrap** =>成功添加bootstrap文件， include成功
 *    **3. 搜索服务的进展** =>看样子没什么进展
 
+规划    加入使用插件的脚本
+
 
 ##Contact##
 * Email: <qing.yang@dewmobile.net>
